@@ -22,5 +22,5 @@ ______
 * [Таблица решений](https://docs.google.com/spreadsheets/d/1oADaQ1tRCFrx80MQ4D52c2njACMYYUY0uTu0T6wUdzc/edit#rangeid=570760343)
 * [Техника состояний и переходов](https://docs.google.com/spreadsheets/d/1oADaQ1tRCFrx80MQ4D52c2njACMYYUY0uTu0T6wUdzc/edit#rangeid=1201382580)
 * [Сессионное тестирование](https://docs.google.com/spreadsheets/d/1oADaQ1tRCFrx80MQ4D52c2njACMYYUY0uTu0T6wUdzc/edit#rangeid=241163635)
-* [Техника предугадывания ошибок](https://docs.google.com/spreadsheets/d/1oADaQ1tRCFrx80MQ4D52c2njACMYYUY0uTu0T6wUdzc/edit#rangeid=364767984)\
+* [Техника предугадывания ошибок](https://docs.google.com/spreadsheets/d/1oADaQ1tRCFrx80MQ4D52c2njACMYYUY0uTu0T6wUdzc/edit#rangeid=364767984)
 #### [Пример регрессионного тестирования и ретеста ](https://docs.google.com/spreadsheets/d/1oADaQ1tRCFrx80MQ4D52c2njACMYYUY0uTu0T6wUdzc/edit#rangeid=1923131490)
