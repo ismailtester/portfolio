@@ -19,7 +19,6 @@ ______
 #### **Техники-тест дизайна**
 * [Классы эквивалентности и граничные значения ](https://docs.google.com/spreadsheets/d/1oADaQ1tRCFrx80MQ4D52c2njACMYYUY0uTu0T6wUdzc/edit#rangeid=1129518377)
 * [Попарное тестирование](https://docs.google.com/spreadsheets/d/1oADaQ1tRCFrx80MQ4D52c2njACMYYUY0uTu0T6wUdzc/edit#rangeid=756800236)
-* [Таблица решений](https://docs.google.com/spreadsheets/d/1oADaQ1tRCFrx80MQ4D52c2njACMYYUY0uTu0T6wUdzc/edit#rangeid=570760343)
 * [Техника состояний и переходов](https://docs.google.com/spreadsheets/d/1oADaQ1tRCFrx80MQ4D52c2njACMYYUY0uTu0T6wUdzc/edit#rangeid=1201382580)
 * [Сессионное тестирование](https://docs.google.com/spreadsheets/d/1oADaQ1tRCFrx80MQ4D52c2njACMYYUY0uTu0T6wUdzc/edit#rangeid=241163635)
 * [Техника предугадывания ошибок](https://docs.google.com/spreadsheets/d/1oADaQ1tRCFrx80MQ4D52c2njACMYYUY0uTu0T6wUdzc/edit#rangeid=364767984)
